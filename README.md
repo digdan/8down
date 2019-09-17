@@ -1,5 +1,5 @@
 ### Build words list 
-Example: ```node index.js drownging```
+Example: ```node index.js drowning```
 
 Results:
 
